@@ -33,6 +33,8 @@
 <br />
 
 <div align="center">
+  <img src="public/assets/Netflix-Clone.jpg" alt="logo" width="100%" height="100%">
+  <p align="center">Architectural Diagram</p>
   <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
   <p align="center">Home Page</p>
   <img src="./public/assets/mini-portal.png" alt="Logo" width="100%" height="100%">
