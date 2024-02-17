@@ -2,8 +2,8 @@
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
     <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
   </a>
-
-  <h3 align="center">Netflix Clone</h3>
+  
+  <h1 align="center">Getting Started WithNetflix Clone</h1>
 
   <p align="center">
     <a href="https://netflix-clone-react-typescript.vercel.app/">View Demo</a>
@@ -46,12 +46,17 @@
 </div>
 
 ## Prerequests
-
+- Create an account if you don't have on [AWS](https://aws.amazon.com/).
+- And then follow the [documentation]((https://docs.aws.amazon.com/SetUp/latest/UserGuide/setup-prereqs-instructions.html)) to create new DockerHub Account.
 - Create an account if you don't have on [TMDB](https://www.themoviedb.org/).
   Because I use its free API to consume movie/tv data.
 - And then follow the [documentation](https://developers.themoviedb.org/3/getting-started/introduction) to create API Key
 - Finally, if you use v3 of TMDB API, create a file named `.env`, and copy and paste the content of `.env.example`.
   And then paste the API Key you just created.
+- Create an account if you don't have on [DockerHub](https://hub.docker.com/).
+  Because Its OpenSource.
+- And then follow the [documentation]((https://docs.docker.com/docker-id/)) to create new DockerHub Account.
+
 
 ## Which features this project deal with
 
