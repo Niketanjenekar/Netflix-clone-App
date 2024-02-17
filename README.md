@@ -3,8 +3,8 @@
     <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
   </a>
   
-  <h1 align="center">Getting Started WithNetflix Clone</h1>
-
+  <h1 align="center">Getting Started With Netflix Clone</h1>
+  <h3 align="center">Our Netflix clone project aims to recreate the immersive experience of the popular streaming platform, allowing users to browse, search, and watch their favorite movies and TV shows. Leveraging the power of modern web technologies, we've developed a comprehensive solution that combines the richness of Netflix's user interface with the flexibility of a customizable streaming service.</h3>
   <p align="center">
     <a href="https://netflix-clone-react-typescript.vercel.app/">View Demo</a>
     ·
