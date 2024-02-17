@@ -65,9 +65,7 @@
 - And then follow the [Documentation]((https://docs.docker.com/docker-id/)) to create a new DockerHub Account.
 
 ##What tools we can use?
-<div align="center">
-  <img src="" alt="logo" width="50%" height="40%">
-  <p align="center">Jenkins</p>
+
 Jenkins:
 Purpose: 
 Jenkins is an open-source automation server that facilitates the continuous integration (CI) and continuous delivery (CD) of software projects.
